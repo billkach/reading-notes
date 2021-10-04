@@ -36,8 +36,7 @@ The classes the content is based on are as follows:
 
 
 <br>
-<break>
-
+<br>
 
 
 [Also here](https://github.com/billkach/reading-notes/wiki) you can find on the Wiki page of this repo, notes and citations of various articles related to my 201, 301, and 401 course work @ **Code Fellows**.
