@@ -33,7 +33,7 @@ The classes the content is based on are as follows:
 <br>
 
 ## Ops 401 | Cybersecurity Engineering
-[Class 01](https://github.com/billkach/reading-notes/wiki/Ops-401---Class-01) | [Class 02](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-02)
+[Class 01](https://github.com/billkach/reading-notes/wiki/Ops-401---Class-01) | [Class 02](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-02) |
 [Class 03](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-03)
 
 <br>
