@@ -44,6 +44,7 @@ The classes the content is based on are as follows:
 [Class 26](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-26) | [Class 27](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-27) |
 [Class 28](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-28) | [Class 29](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-29) |
 [Class 31](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-31) | [Class 32](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-32) |
+[Class 33](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-33) | [Class 34](https://github.com/billkach/reading-notes/wiki/Ops-401-Class-34) |
 
 
 <br>
